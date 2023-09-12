@@ -1,0 +1,15 @@
+.ul li{
+    list-style: none;
+    margin-top: 20px;
+}
+.ul li a {
+    display: flex;
+    align-items: center;
+    gap : 25px;
+    text-decoration: none;
+    color : black;
+    font-weight: bold;
+}
+.ul li img {
+    width: 90px;
+}

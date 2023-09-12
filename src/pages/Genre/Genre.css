@@ -1,0 +1,20 @@
+.card{
+    width: 240px;
+    height: 400px;
+    border : 1px solid black;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-bottom: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    color : black;
+}
+
+.card img {
+    width: 100%;
+}
+
+.card h4 {
+    text-align: center;
+    padding: 10px 0;
+}

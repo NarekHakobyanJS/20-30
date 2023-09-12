@@ -1,0 +1,13 @@
+.film{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 35px;
+    padding: 0 15px;
+
+}
+
+.film-left img {
+    width: 400px;
+}

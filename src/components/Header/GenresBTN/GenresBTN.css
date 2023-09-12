@@ -1,0 +1,9 @@
+.GenresBTN{
+    width: 100px;
+    border-radius: 30px;
+    padding: 9px;
+    background: aqua;
+    border: none;
+    cursor: pointer;
+    margin-left: 14px;
+}

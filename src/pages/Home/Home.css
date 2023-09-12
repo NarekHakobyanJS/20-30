@@ -1,0 +1,21 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
+
+.pageBTN {
+    display: block;
+    margin: 0 auto;
+    width: 240px;
+    height: 45px;
+    font-size: 24px;
+    font-weight: 700;
+    background: gold;
+    border : none;
+    cursor: pointer;
+    border-radius: 30px;
+    margin-bottom: 30px;
+}
